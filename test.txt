@@ -1,0 +1,7 @@
+Hello Big Data Trunk.
+
+Hadoop is a good technalogy
+
+Hadoop and spark both are eco system.
+
+
